@@ -1,4 +1,4 @@
-Hanymato: 'Cache'
+d54aa11cc3ae20ae3ddbbfaf23c6fdbde9bed38eHanymato: 'Cache'
 description: "This action caches fixtures"
 outputs:
   cache-hit:
